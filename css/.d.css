@@ -1,0 +1,35 @@
+ body{
+  background-color: #EEEEEE
+ ;}
+ table{
+  background-color: #FFFFFF
+ }
+ a{
+ 	color: #000;
+ }
+ a:link{text-decoration:none}
+ .hr{
+	 color:#DDDDDD
+ }
+ .forp{
+  color: #777777
+ }
+ .xl{
+	 color:#999999
+ }
+ .h{
+	 color:#555555
+ }
+ .fin{
+  color: #48B6fc;
+ }
+ .button{
+  background-color:#EEEEEE;
+  border: none;
+  color: #000;
+  padding:30px 15px;
+ }
+		
+.mm {
+color: #000000
+}
